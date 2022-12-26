@@ -1,1 +1,1 @@
-# Slider-Project Using React, SCSS & Vite 
+# Slider-Project Using Javascript, React, SCSS & Vite 
